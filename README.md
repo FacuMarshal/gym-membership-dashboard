@@ -56,3 +56,7 @@ The workflow automatically updates member statuses based on expiration dates and
 
 ### Automation Workflow
 ![Workflow](membership-workflow.png)
+
+### Data Management
+![Database](membership-database.png)
+
