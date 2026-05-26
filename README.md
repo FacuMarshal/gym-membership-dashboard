@@ -49,3 +49,7 @@ Google Sheets → n8n Automation → Dashboard System → Status Updates
 The workflow automatically updates member statuses based on expiration dates and synchronizes dashboard metrics.
 
 ---
+## Screenshots
+
+### Dashboard Overview
+![Dashboard](dashboard-overview.png)
